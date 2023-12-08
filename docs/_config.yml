@@ -30,7 +30,7 @@ twitter_username:
 github_username:  griffinwrites
 
 # Build settings
-theme: simply-cyan-ghpages
+theme: simply-cyan
 plugins:
   - jekyll-feed
 
