@@ -34,5 +34,5 @@ jobs:
           publish_dir: ./docs/_site
           # if the repo you are deploying to is <username>.github.io, uncomment the line below.
           # if you are including the line below, make sure your source files are NOT in the "main" branch:
-          # publish_branch: main
+          publish_branch: main
 
