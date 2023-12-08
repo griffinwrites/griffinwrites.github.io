@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/griffinwrites/simply-cyan-theme-gh-pages.git
+  revision: 17b98ca258d75a08b63bf850ca8acfad18caac76
+  specs:
+    simply-cyan-ghpages (0.1.0)
+      github-pages (~> 228)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -249,8 +256,6 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    simply-cyan-ghpages (0.1.0)
-      github-pages (~> 228)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.1)
@@ -269,7 +274,7 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  simply-cyan-ghpages
+  simply-cyan-ghpages!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
