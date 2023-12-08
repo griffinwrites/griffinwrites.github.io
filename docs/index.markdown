@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+Testing the timeago plugin on github pages
+
+{% assign date = '2020-04-13T10:20:00Z' %}
+
+- Original Date - {{ date }}
+- With Timeago filter - {{ date | timeago }}
