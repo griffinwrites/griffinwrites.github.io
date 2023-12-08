@@ -1,1 +1,0 @@
-# griffinwrites.github.io
